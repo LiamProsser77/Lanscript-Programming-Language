@@ -7,11 +7,11 @@ HPP is the proprietary logic engine for the **Heofon** ecosystem, bridging the g
 
 HPP is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
 
-Official Website: https://hpp-com.zite.so/
+Official Website: https://hpp-lang.zite.so/
 
 Learn HPP at: https://code-pilgrim-com.zite.so/
 
-Open HPP sandbox on Google Sites: https://sites.google.com/kimberly.k12.wi.us/hpp-sandbox-com/untitled-page
+Open HPP sandbox: https://hpp-lang.zite.so/editor
 
 ---
 

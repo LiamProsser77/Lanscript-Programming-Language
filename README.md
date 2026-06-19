@@ -1,4 +1,5 @@
-<img width="300" height="300" alt="hpp-nobackground" src="https://github.com/user-attachments/assets/ff702a05-1116-44af-81f9-a4add77ca0c1" />
+<img width="430" height="300" alt="l#" src="https://github.com/user-attachments/assets/f380b36c-f30c-4a7b-8c8b-fc94aca9912f" />
+
 
 
 # Logic Sharp (L#)

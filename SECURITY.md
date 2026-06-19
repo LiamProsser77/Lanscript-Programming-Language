@@ -1,6 +1,6 @@
 Security Policy
 Reporting Security Vulnerabilities
-HPP takes security seriously. We appreciate the efforts of security researchers and users who help improve the safety of the project.
+L# takes security seriously. We appreciate the efforts of security researchers and users who help improve the safety of the project.
 
 If you discover a potential security vulnerability, please report it responsibly.
 

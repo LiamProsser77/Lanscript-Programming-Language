@@ -19,8 +19,7 @@ To begin developing with Rook, you can access the environment directly through o
 
 * **No Login Required:** Simply visit the portal and start coding immediately.
 * **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
-* **Direct Access:** Visit the official Rook portal to use the integrated editor: https://hpp-com.zite.so/
-
+* **Direct Access:** Visit the official Rook portal to use the integrated editor: https://rook-lang.zite.so/
 ---
 ### Variables
 ```

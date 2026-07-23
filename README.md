@@ -1,5 +1,4 @@
-<img width="400" height="300" alt="Rook-lang" src="https://github.com/user-attachments/assets/064f2922-1379-49f1-853c-57fe54f508a2" />
-
+<img width="400" height="300" alt="LS" src="https://github.com/user-attachments/assets/9754ea74-2f24-4f7d-a490-cc7868df11e3" />
 
 
 
